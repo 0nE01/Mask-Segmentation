@@ -22,10 +22,11 @@ Resulte
 
 
 
+
 <p align="center" width="100%">
-   <img src="https://github.com/0nE01/Mask-Segmentation/assets/127254729/04e7221a-343e-426a-9296-9483cfca31a1" width="28%" height="300">
-  <img src="https://github.com/0nE01/Mask-Segmentation/assets/127254729/88644a84-888a-4f50-87ca-f3d85d325b67"  width="28%" height="300">
-  <img src="https://github.com/0nE01/Mask-Segmentation/assets/127254729/2d058296-841e-4d07-862f-7cda46aba839"  width="28%" height="300">
+   <img src="https://github.com/0nE01/Mask-Segmentation/assets/127254729/08aea9bd-cbe8-453c-9d0d-7a41afc26c4b" width="28%" height="300">
+  <img src="https://github.com/0nE01/Mask-Segmentation/assets/127254729/bccb6a08-8bf3-4719-97f5-70163157723a"  width="28%" height="300">
+  <img src="https://github.com/0nE01/Mask-Segmentation/assets/127254729/676cdc36-50a6-40e1-807b-ef48c6b1e8ed"  width="28%" height="300">
 </p>
 
 Dataset
