@@ -6,11 +6,11 @@
 
 
 
-### Have you ever wounderd to learn image segmentation using pytorch ? your in right pleace! You can learn image segmentation with your custom dataset using pytorch and learn new things about pytorch in this repo 
+### Have you ever wounderd to learn image segmentation using pytorch ? your in right pleace! You can learn image segmentation with your custom dataset using pytorch and learn new things about pytorch in this repo. 
 #### In this project we're going to create a medical mask segmentation.
-#### that I created this project using this official [toturial](https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html) from pytorch.
+#### I created this project using this official [toturial](https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html) from pytorch.
 
-This project is  :
+#### This project is  :
 * Great for learning Image segmentation using pytorch 🔥
 * Great for learning functions in pytorch related to image segmentation 💪
 * Great for learning new things in pytorch ⚡
