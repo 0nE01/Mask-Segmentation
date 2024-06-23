@@ -10,7 +10,7 @@
 #### In this project we're going to create a medical mask segmentation.
 #### I created this project using this official [toturial](https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html) from pytorch.
 
-#### This project is  :
+### This project is  :
 * Great for learning Image segmentation using pytorch 🔥
 * Great for learning functions in pytorch related to image segmentation 💪
 * Great for learning new things in pytorch ⚡
